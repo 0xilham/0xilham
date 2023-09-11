@@ -39,6 +39,6 @@ I am Ilham Nur Hermawan, people call me Ilham, majoring Information Technology i
 
 ![ilhamcoder's Stats](https://github-readme-stats.vercel.app/api?username=ilhamcoder&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![ilhamcoder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamcoder&theme=vue-dark&hide_border=true)
-![ilhamcoder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamcoder&theme=vue-dark&show_icons=true&hide_border=true)
+![ilhamcoder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamcoder&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ilhamcoder.ilhamcoder)
