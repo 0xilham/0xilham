@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="wave.gif" width="30">
+## Fancy seeing you here! <img src="https://github.com/0xilham/0xilham/blob/main/wave.gif?raw=true" width="30">
 
 I am Ilham Nur Hermawan, people call me Ilham, majoring Information Technology in college [The STMIK IKMI Cirebon](https://ikmi.ac.id/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
