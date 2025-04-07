@@ -14,14 +14,12 @@ I am Ilham Nur Hermawan, people call me Ilham, majoring Information Technology i
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-F4C430?style=flat-square&logo=ethereum)
 ![Wagmi](https://img.shields.io/badge/-Wagmi-1E88E5?style=flat-square)
 ![Viem](https://img.shields.io/badge/-Viem-8000FF?style=flat-square&logo=ethereum)
 ![RainbowKit](https://img.shields.io/badge/-RainbowKit-FB52FF?style=flat-square)
-
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
