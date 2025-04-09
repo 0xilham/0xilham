@@ -33,7 +33,6 @@ I am Ilham Nur Hermawan, usually called Ilham, a graduate of Informatics Enginee
 
 
 ![0xilham's Stats](https://github-readme-stats.vercel.app/api?username=0xilham&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![0xilham's Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xilham&theme=vue-dark&hide_border=true)
 ![0xilham's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xilham&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=0xilham.0xilham)
