@@ -11,9 +11,11 @@ I am Ilham Nur Hermawan, usually called Ilham, a graduate of Informatics Enginee
 
 ## ⚡ Technologies
 
+https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 ![Hardhat](https://img.shields.io/badge/-Hardhat-F4C430?style=flat-square&logo=ethereum)
